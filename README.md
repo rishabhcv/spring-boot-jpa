@@ -8,7 +8,8 @@ tutorial with this repository.
 
 #### How does JPA/Hibernate Work?
 Databases are designed with Tables/Relations. Java objects are designed using OOPS. We would want to store the data from
-objects into tables and vice-versa. Earlier approaches involved writing SQL Queries. JDBC, Spring JDBC and myBatis were 
+objects into tables and vice-versa. Earlier approaches involved writing SQL Queries.       
+JDBC, Spring JDBC and myBatis were 
 popular approaches. *How about mapping the objects directly to tables/relationships?*        
 This Mapping is also called ORM - Object Relational Mapping. Before JPA, ORM was the term more commonly used to refer to these frameworks.
 Thats one of the reasons, Hibernate is called a ORM framework.
